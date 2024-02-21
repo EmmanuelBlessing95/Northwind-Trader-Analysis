@@ -39,13 +39,13 @@ A many to one relationship was automatically created by Power Bi which goes well
 
 
 ## Insight/Analysis
-1. The North Trader Analysis was between year 2013-2015. The total revenue made was $1.27M. 830 orders were made. 77 products were used and 21 Countries were considered for this Analysis. A sum of 64,942k was spent on shipping of the products for the 3 years.
-2. The USA and Germany are the top two trading countries for the company by revenue and profit.
-3. The QUICK-Stop Company is the Top trading company by revenue.
-4. "Cote de Blaye" is the most profitable product for the company, even though the total quantity sold is relatively low.
-5. Margaret Peacock is the leading star employee of the company in terms of revenue generated.
-6. Product from the beverages category made the highest revenue with 22.89% while products from Produce made the lowest revenue with 8.55%.
-7. The highest revenue was made in the month of April 2015. The lowest revenue was made in the month of May 2015.
+* The North Trader Analysis was between year 2013-2015. The total revenue made was $1.27M. 830 orders were made. 77 products were used and 21 Countries were considered for this Analysis. A sum of 64,942k was spent on shipping of the products for the 3 years.
+* The USA and Germany are the top two trading countries for the company by revenue and profit.
+* The QUICK-Stop Company is the Top trading company by revenue.
+* "Cote de Blaye" is the most profitable product for the company, even though the total quantity sold is relatively low.
+* Margaret Peacock is the leading star employee of the company in terms of revenue generated.
+* Product from the beverages category made the highest revenue with 22.89% while products from Produce made the lowest revenue with 8.55%.
+* The highest revenue was made in the month of April 2015. The lowest revenue was made in the month of May 2015.
 
 ## Recommendation
 *  Capitalize on the success in the USA and Germany by allocating additional resources, marketing efforts, and product offerings to further strengthen the company's presence in these lucrative markets.
