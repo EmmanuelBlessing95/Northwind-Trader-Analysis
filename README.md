@@ -34,7 +34,28 @@ A many to one relationship was automatically created by Power Bi which goes well
 ![Northwind ](https://github.com/EmmanuelBlessing95/Northwind-Trader-Analysis/assets/143742946/dddaa467-79b3-4525-ab4e-0a73172d4f8a)
 
 ## Data Visualisation
-![Northwind Trader Dashboard](https://github.com/EmmanuelBlessing95/Northwind-Trader-Analysis/assets/143742946/26342e7a-7a1c-4d06-8cd6-e1739a2d7116)
+![image](https://github.com/EmmanuelBlessing95/Northwind-Trader-Analysis/assets/143742946/eb120608-3909-448f-b622-3338e6b47874)
+
+
+
+## Insight/Analysis
+1. The North Trader Analysis was between year 2013-2015. The total revenue made was $1.27M. 830 orders were made. 77 products were used and 21 Countries were considered for this Analysis. A sum of 64,942k was spent on shipping of the products for the 3 years.
+2. The USA and Germany are the top two trading countries for the company by revenue and profit.
+3. The QUICK-Stop Company is the Top trading company by revenue.
+4. "Cote de Blaye" is the most profitable product for the company, even though the total quantity sold is relatively low.
+5. Margaret Peacock is the leading star employee of the company in terms of revenue generated.
+6. Product from the beverages category made the highest revenue with 22.89% while products from Produce made the lowest revenue with 8.55%.
+7. The highest revenue was made in the month of April 2015. The lowest revenue was made in the month of May 2015.
+
+## Recommendation
+*  Capitalize on the success in the USA and Germany by allocating additional resources, marketing efforts, and product offerings to further strengthen the company's presence in these lucrative markets.
+*  It is recommended that the company give the employee "Margaret Peacock" some award or reward to encourage such performance.
+*  Foster and strengthen the relationship with QUICK-Stop as the top trading company. Explore opportunities for collaboration, exclusive deals, or tailored services to maintain and expand this profitable partnership.
+*  Leverage the popularity and profitability of the "Cote de Blaye" product. Consider marketing campaigns, promotions, or bundle offers to increase its sales volume and maximize overall revenue.
+*  Use insights from the highest and lowest revenue months to inform seasonal revenue planning. Adjust inventory, marketing efforts, and promotions to align with historical patterns and maximize revenue during peak months.
+
+   
+
 
 
   
